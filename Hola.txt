@@ -1,0 +1,2 @@
+Hola Pildora akugdiqaugfiñagf
+git status -s : seguimiento en un archivo
