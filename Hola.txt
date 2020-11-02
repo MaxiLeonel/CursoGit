@@ -2,3 +2,4 @@ Hola Pildora akugdiqaugfiñagf
 git status -s : seguimiento en un archivo
 git log --online : lista de copias
 git reset --hard "codigo de copia": volver a X version 
+git commit -am: add y commit juntos
